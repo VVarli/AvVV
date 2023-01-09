@@ -1,0 +1,32 @@
+header {
+    background-color: darkkhaki;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgb(81, 49, 49);
+   
+}
+h2 {
+    background-color: lightslategray;
+}
+
+
+article {
+    background-color: #FFD384;
+}
+
+body {
+    list-style-position: inside;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #FF884B;
+
+    /* background-color: #8a8a8a; */
+
+    /*cbackground-image: url("kütüphane.jpg");*/
+
+    
+}
+
+
+
